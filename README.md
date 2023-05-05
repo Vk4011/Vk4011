@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vk4011&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://www.flaticon.com/free-icon/virtual-lab_10604857" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vk4011&icon=2&color=1)](https://visitcount.itsvg.in)
